@@ -105,8 +105,13 @@ public class MainSceneController {
         descriptionLabel.setStyle("-fx-font-size: 18px; -fx-text-fill: #333; -fx-font-family: 'Bodoni MT';");
         gridPane.add(descriptionLabel, 0, 2, 2, 1);
 
-        Label creatorsLabel = new Label("Created by: Hamza Zaraii , Imen Salhi , Ibrahim GHali , Ala Eddine Zalfani");
-        creatorsLabel.setStyle("-fx-font-size: 18px; -fx-text-fill: #555; -fx-font-family: 'Algerian';");
+        Label creatorsLabel = new Label("Created by: Hamza Zaraii, Imen Salhi ,Ibrahim GHali, Ala Eddine Zalfani"
+        +"\nProject supervisor: Dr.Sirine MARRAKCHI"
+        +"\nSubject name: Numeric Algorithm"
+        +"\nEstablishment: Faculty of Science of Sfax"
+        +"\nSector: Data Engineering"
+        +"\nDepartment: Computer Science and Communication department");
+        creatorsLabel.setStyle("-fx-font-size: 14px; -fx-text-fill: #555; -fx-font-family: 'Verdana';");
         gridPane.add(creatorsLabel, 0, 3, 2, 1);
 
         alert.getDialogPane().setContent(gridPane);
