@@ -27,7 +27,13 @@ Import the project into your preferred Java IDE.
 Set up the JavaFX SDK in your IDE:
 
 IntelliJ IDEA
-Eclipse
+Eclipse![Initial](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/88e93a98-1298-4236-8d1f-573649df0048)
+![Second Scene](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/0d76cabe-e167-436c-b8ad-5e033d9558f1)
+![Mul Reso](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/6ddac58d-4b60-477c-94af-4c1d296f7d15)
+![MatriceTriangulaireInfurieure fois  MariceTraingSupérieure](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/57727383-9217-4fbf-9a8c-3c184c179b51)
+![List](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/f9468627-aa5c-4ca8-ad1b-952daaa4d3d8)
+![Iter resolution](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/f28c26ec-79f7-4cee-94de-e6dfc35ec00d)
+
 Build and run the application from your IDE.
 
 Usage
