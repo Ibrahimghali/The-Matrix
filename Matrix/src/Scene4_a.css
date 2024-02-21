@@ -1,0 +1,6 @@
+/* Scene4_1.css */
+
+/* Select all text elements within the scene */
+.root * {
+    -fx-font-weight: bold;
+}

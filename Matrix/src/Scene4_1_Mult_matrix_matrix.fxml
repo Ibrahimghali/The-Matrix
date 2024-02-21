@@ -21,14 +21,14 @@
             <Image url="@icones/bg.gif" />
          </image>
       </ImageView>
-        <VBox alignment="CENTER" layoutX="26.0" layoutY="96.0" prefHeight="563.0" prefWidth="448.0" spacing="10">
+        <VBox alignment="CENTER" layoutX="26.0" layoutY="96.0" prefHeight="563.0" prefWidth="448.0" spacing="10" stylesheets="@Scene4_1.css">
          <HBox alignment="CENTER" spacing="10">
                <children>
                   <Label prefHeight="46.0" prefWidth="265.0" text="Operation type:" textFill="WHITE">
                   <font>
                      <Font size="30.0" />
                   </font></Label>
-                  <ChoiceBox fx:id="choice" prefHeight="42.0" prefWidth="289.0" />
+                  <ChoiceBox fx:id="choice" prefHeight="42.0" prefWidth="289.0" stylesheets="@Scene4_1.css" />
                </children>
                <padding>
                   <Insets bottom="10" />
@@ -95,7 +95,11 @@
             </font>
         </Label>
         <Button layoutX="412.0" layoutY="656.0" mnemonicParsing="false" onAction="#exit" prefHeight="31.0" prefWidth="88.0" text="Exit" />
-           <Button layoutY="654.0" mnemonicParsing="false" onAction="#back" prefHeight="35.0" prefWidth="81.0" text="return" />
+           <Button layoutY="654.0" mnemonicParsing="false" onAction="#back" prefHeight="35.0" prefWidth="81.0" stylesheets="@Scene4_1.css" text="return">
+         <font>
+            <Font name="Arial" size="12.0" />
+         </font>
+      </Button>
          
     </children>
 
