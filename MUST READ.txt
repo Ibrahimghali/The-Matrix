@@ -1,0 +1,21 @@
+This application is designed to facilitate the manipulation and resolution of matrix.
+
+Key Features:
+- Create, edit, and perform operations on matrices.
+- Solve linear systems and equations using matrix methods.
+- Visualize matrix transformations and operations.
+
+Whether you are a student studying linear algebra or a professional, dealing with matrix computations, this tool aims to simplify your matrix-related tasks.
+
+Created by: Hamza Zaraii, Imen Salhi, Ibrahim Ghali, Ala Eddine Zalfani
+Project supervisor: Dr. Sirine MARRAKCHI
+Subject name: Numeric Algorithm
+Establishment: Faculty of Science of Sfax
+Sector: Data Engineering
+Department: Computer Science and Communication department
+
+For more details about the project requirements follow this Youtube link:
+	https://www.youtube.com/watch?v=AubJaosfI-0
+
+Then replace the src by the project src.
+
