@@ -44,7 +44,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contact:
 
-For questions or inquiries, please contact [email address removed].
+For questions or inquiries, please contact ghaliibrahim60@gmail.com.
 
 ## Key Features:
 
