@@ -81,7 +81,7 @@ Numerical Algorithm
 
 ## Establishment:
 
-Faculty of Science of Sfax
+Faculty of Sciences of Sfax
 
 ## Sector:
 
@@ -89,4 +89,4 @@ Data Engineering
 
 ## Department:
 
-Computer Science and Communication department
+Computer Science and Communications department
