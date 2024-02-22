@@ -26,6 +26,11 @@ git clone https://github.com/Ibrahimghali/The-Matrix.git
 4. Build and run the application from your IDE.
 
 ## Usage:
+![Initial](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/e4f39369-9f4b-49a0-b70b-a8d80af19f9c)
+![Mul Reso](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/86a9b101-c681-4345-8e07-33d76e7a6a34)
+![MatriceTriangulaireInfurieure fois  MariceTraingSupérieure](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/6bc9ccce-e5c4-4c12-80f9-bd97b95aa4ee)
+![List](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/257bf11e-898a-481b-945a-514cc10981bf)
+![Iter resolution](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/9a71ed0d-8883-4215-ab5e-dac5bbdbaa5a)
 
 1. Launch the Matrix application.
 2. Use the interface to:
