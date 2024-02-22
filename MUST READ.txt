@@ -7,15 +7,18 @@ Key Features:
 
 Whether you are a student studying linear algebra or a professional, dealing with matrix computations, this tool aims to simplify your matrix-related tasks.
 
+For more details about the project requirements follow this Youtube link:
+	https://www.youtube.com/watch?v=AubJaosfI-0
+
+Then replace the src by the project src.
+
+
+
+
 Created by: Hamza Zaraii, Imen Salhi, Ibrahim Ghali, Ala Eddine Zalfani
 Project supervisor: Dr. Sirine MARRAKCHI
 Subject name: Numerical Algorithm
 Establishment: Faculty of Science of Sfax
 Sector: Data Engineering
 Department: Computer Science and Communication department
-
-For more details about the project requirements follow this Youtube link:
-	https://www.youtube.com/watch?v=AubJaosfI-0
-
-Then replace the src by the project src.
 
