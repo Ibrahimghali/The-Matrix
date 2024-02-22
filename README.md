@@ -1,56 +1,87 @@
-# Matrix
+# Matrix: JavaFX application for matrix operations
 
-Matrix is a JavaFX application that provides functionality for matrix multiplication and solving systems of linear equations using numerical algorithms.
+Matrix is a JavaFX application designed to help you work with matrices. It offers functionalities for matrix multiplication and solving systems of linear equations using numerical algorithms.
 
-## Features
+## Features:
 
-- Matrix multiplication: Perform multiplication between two matrices.
-- System solving: Solve systems of linear equations using numerical algorithms.
-- User-friendly interface: The application has a graphical user interface built with JavaFX for easy interaction.
+- Perform multiplication between two matrices.
+- Solve systems of linear equations using numerical algorithms.
+- User-friendly graphical user interface built with JavaFX.
 
-## Prerequisites
+## Prerequisites:
 
-To run this project, you need to have the following installed:
+- Java Development Kit (JDK) version 20.0.1
+- JavaFX version 17.0.9
 
-- Java Development Kit (JDK) (version 20.0.1)
-- JavaFX (version 17.0.9)
-- Any additional dependencies or libraries
-
-## Installation
+## Installation:
 
 1. Clone the repository:
+git clone https://github.com/Ibrahimghali/The-Matrix.git
+2. Import the project into your preferred Java IDE.
 
-   ```shell
-   git clone https://github.com/Ibrahimghali/The-Matrix.git
-Import the project into your preferred Java IDE.
+3. Set up the JavaFX SDK in your IDE:
+- IntelliJ IDEA: Follow the steps in the [IntelliJ IDEA documentation](https://www.jetbrains.com/help/idea/javafx.html).
+- Eclipse: Follow the steps in the [Eclipse documentation](https://openjfx.io/openjfx-docs/#IDE-Eclipse).
 
-Set up the JavaFX SDK in your IDE:
+4. Build and run the application from your IDE.
 
-IntelliJ IDEA
-Eclipse![Initial](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/88e93a98-1298-4236-8d1f-573649df0048)
-![Second Scene](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/0d76cabe-e167-436c-b8ad-5e033d9558f1)
-![Mul Reso](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/6ddac58d-4b60-477c-94af-4c1d296f7d15)
-![MatriceTriangulaireInfurieure fois  MariceTraingSupérieure](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/57727383-9217-4fbf-9a8c-3c184c179b51)
-![List](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/f9468627-aa5c-4ca8-ad1b-952daaa4d3d8)
-![Iter resolution](https://github.com/Ibrahimghali/The-Matrix/assets/98592824/f28c26ec-79f7-4cee-94de-e6dfc35ec00d)
+## Usage:
 
-Build and run the application from your IDE.
+1. Launch the Matrix application.
+2. Use the interface to:
+- Enter matrices for multiplication.
+- Provide systems of linear equations to solve.
+- View the results on the interface.
+3. Customize the code according to your needs.
 
-Usage
-Launch the Matrix application.
+## Contributing:
 
-Use the graphical user interface to interact with the features:
+We welcome contributions! Please open an issue or submit a pull request for any issues or improvements.
 
-Enter the matrices for multiplication.
-Provide the system of linear equations to solve.
-View the results on the interface.
-Customize the code according to your specific requirements.
+## License:
 
-Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-License
-MIT License
+## Contact:
 
-Contact
-For any questions or inquiries, please contact ghaliibrahim@gmail.com.
+For questions or inquiries, please contact [email address removed].
+
+## Key Features:
+
+- Create, edit, and perform operations on matrices.
+- Solve linear systems and equations using matrix methods.
+- Visualize matrix transformations and operations.
+
+## Target Audience:
+
+This application is useful for:
+
+- Students studying linear algebra.
+- Professionals dealing with matrix computations.
+
+## Creators:
+
+- Hamza Zaraii
+- Imen Salhi
+- Ibrahim Ghali
+- Ala Eddine Zalfani
+
+## Project Supervisor:
+
+Dr. Sirine MARRAKCHI
+
+## Subject:
+
+Numerical Algorithm
+
+## Establishment:
+
+Faculty of Science of Sfax
+
+## Sector:
+
+Data Engineering
+
+## Department:
+
+Computer Science and Communication department
