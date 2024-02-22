@@ -9,7 +9,7 @@ Whether you are a student studying linear algebra or a professional, dealing wit
 
 Created by: Hamza Zaraii, Imen Salhi, Ibrahim Ghali, Ala Eddine Zalfani
 Project supervisor: Dr. Sirine MARRAKCHI
-Subject name: Numeric Algorithm
+Subject name: Numerical Algorithm
 Establishment: Faculty of Science of Sfax
 Sector: Data Engineering
 Department: Computer Science and Communication department
