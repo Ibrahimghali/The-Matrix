@@ -18,7 +18,7 @@ Then replace the src by the project src.
 Created by: Hamza Zaraii, Imen Salhi, Ibrahim Ghali, Ala Eddine Zalfani
 Project supervisor: Dr. Sirine MARRAKCHI
 Subject name: Numerical Algorithm
-Establishment: Faculty of Science of Sfax
+Establishment: Faculty of Sciences of Sfax
 Sector: Data Engineering
-Department: Computer Science and Communication department
+Department: Computer Science and Communications department
 
